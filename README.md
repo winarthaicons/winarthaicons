@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih
 - 👀 I’m interested in  Javascript,C++,Swift,TypeScript,Golang...
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on ..Your Github Repo.
 -
 
